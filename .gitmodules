@@ -4,3 +4,6 @@
 [submodule "vim"]
 	path = vim
 	url = git@github.com:nemanjan00/vim.git
+[submodule "i3wm"]
+	path = i3wm
+	url = git@github.com:nemanjan00/i3wm.git
