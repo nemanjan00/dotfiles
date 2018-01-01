@@ -7,3 +7,6 @@
 [submodule "i3wm"]
 	path = i3wm
 	url = git@github.com:nemanjan00/i3wm.git
+[submodule "termite"]
+	path = termite
+	url = git@github.com:nemanjan00/termite.git
